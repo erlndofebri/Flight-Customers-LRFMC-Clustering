@@ -1,5 +1,5 @@
 # Flight Customers LRFMC Clustering
-The goal of this project are to cluster flight customers and make recommendation how to deal with each cluster Using LRFMC clustering method
+The goals of this project are to cluster flight customers and make recommendation how to deal with each cluster Using LRFMC clustering method
 ## LRFMC
 We will analyze flight customer using LRFMC analysis. LRFMC analysis is an extended version of RFM analysis that has been used in the aviation industry for years to divide customers into segments. Based on LRFMC analysis we will need 5 variables:
 
